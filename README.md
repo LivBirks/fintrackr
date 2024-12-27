@@ -1,0 +1,2 @@
+# fintrackr
+Finance tracking app.
